@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getHealth()
+comment1.params=h
+comment1.target=void\ setHealth(int)
+numComments=2
